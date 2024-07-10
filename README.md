@@ -10,3 +10,5 @@ Huge Thanks to [TRIPOVERTHIS420](https://www.youtube.com/watch?v=uj2jFbTWPhY&lis
 Here are some of the camos:
 
 ![Smooth White M1911](https://github.com/devDrendos/Black-Ops-1-Camo-Pack/blob/main/Drendos%20Pack/pictures/19.JPG?raw=true)
+![Midnight Pink Olympia](https://github.com/devDrendos/Black-Ops-1-Camo-Pack/blob/main/Drendos%20Pack/pictures/olympia.JPG?raw=true)
+![Blue Gem M14](https://github.com/devDrendos/Black-Ops-1-Camo-Pack/blob/main/Drendos%20Pack/pictures/m.JPG?raw=true)
