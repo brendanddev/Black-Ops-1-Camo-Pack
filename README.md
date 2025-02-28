@@ -11,6 +11,11 @@ I plan to expand and refine this pack over time, improving existing camos and ad
 - Open an issue for suggestions or bug reports.
 - Reach out to discuss ideas—let’s make this pack even better together!
 
+# Installation
+1. Download the Drendos Pack folder and unzip it.
+2. Create a IWD_42 folder:
+4. Drag and drop all the `.iwi` files from the unzipped folder into your newly created `IWD_42` folder.
+
 ### Featured Camos
 Here are some of the camos:
 
