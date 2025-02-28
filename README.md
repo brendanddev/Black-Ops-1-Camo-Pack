@@ -5,7 +5,6 @@ Each camo includes both .dds and .iwi files, created or edited by me.
 
 I plan to expand and refine this pack over time, improving existing camos and adding new ones!
 
-
 ## Contributions and Collaboration
 - I’d love to work with other creators! If you're interested in contributing, whether by designing new camos, improving existing ones, or providing feedback, feel free to:
 - Submit a pull request with your custom camo.
@@ -20,8 +19,6 @@ Here are some of the camos:
   <img src="https://github.com/devDrendos/Black-Ops-1-Camo-Pack/blob/main/Drendos%20Pack/pictures/olympia.JPG?raw=true" width="30%">
   <img src="https://github.com/devDrendos/Black-Ops-1-Camo-Pack/blob/main/Drendos%20Pack/pictures/m.JPG?raw=true" width="30%">
 </p>
-
-
 
 ### Credits
 - Credit to [TGM ULTIMATE PACK](https://www.youtube.com/watch?v=ryakPLwCAG0) for help with base models.
