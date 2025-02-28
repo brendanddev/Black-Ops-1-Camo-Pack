@@ -15,9 +15,12 @@ I plan to expand and refine this pack over time, improving existing camos and ad
 ### Featured Camos
 Here are some of the camos:
 
-![Smooth White M1911](https://github.com/devDrendos/Black-Ops-1-Camo-Pack/blob/main/Drendos%20Pack/pictures/19.JPG?raw=true)
-![Midnight Pink Olympia](https://github.com/devDrendos/Black-Ops-1-Camo-Pack/blob/main/Drendos%20Pack/pictures/olympia.JPG?raw=true)
-![Blue Gem M14](https://github.com/devDrendos/Black-Ops-1-Camo-Pack/blob/main/Drendos%20Pack/pictures/m.JPG?raw=true)
+<p align="center">
+  <img src="https://github.com/devDrendos/Black-Ops-1-Camo-Pack/blob/main/Drendos%20Pack/pictures/19.JPG?raw=true" width="30%">
+  <img src="https://github.com/devDrendos/Black-Ops-1-Camo-Pack/blob/main/Drendos%20Pack/pictures/olympia.JPG?raw=true" width="30%">
+  <img src="https://github.com/devDrendos/Black-Ops-1-Camo-Pack/blob/main/Drendos%20Pack/pictures/m.JPG?raw=true" width="30%">
+</p>
+
 
 
 ### Credits
